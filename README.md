@@ -1,4 +1,4 @@
-# broccoli
+# fuzzy-octo-broccoli
 
 Hei!
 Dette er en intro.
